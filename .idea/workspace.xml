@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf49fc2a-d305-4005-9578-c6799756010b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="app.css" />
+        <option value="+layout" />
+        <option value="Sidebar" />
+        <option value="Topbar" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="tijn" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IDlx4fs5N1YC4fwyXhF4iR45AE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tijn/Desktop/tijdelijk project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/tijn/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/222.3345.118/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docker/web-backend/lib/views" />
+      <recent name="$PROJECT_DIR$/docker/web/static/images" />
+      <recent name="$PROJECT_DIR$/Arduino" />
+      <recent name="$PROJECT_DIR$/docker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker" />
+      <recent name="$PROJECT_DIR$/docker/web" />
+      <recent name="$PROJECT_DIR$/docker/config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.databaseCreate.sql">
+    <configuration name="databaseCreate.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/docker/database/databaseCreate.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="robuustamsterdam-measuring-mattress" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="robuustamsterdam-measuring-mattress" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker (oude webapp): Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker (oude webapp)/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker (oude webapp).svelte: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="svelte" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker (oude webapp)/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker images/localhost-run.Dockerfile: Compose Deployment" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="docker/docker images/localhost-run.Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="svelte/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="docker/svelte/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.databaseCreate.sql" />
+        <item itemvalue="Docker.docker (oude webapp): Compose Deployment" />
+        <item itemvalue="Docker.svelte/Dockerfile" />
+        <item itemvalue="Docker.docker images/localhost-run.Dockerfile: Compose Deployment" />
+        <item itemvalue="Docker.docker (oude webapp).svelte: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="- Documentatie update (index updated &amp; sprint 3 added)" />
+    <MESSAGE value="- Sprint 3 toegevoegd aan documentatie (nog niet af)" />
+    <MESSAGE value="- Vertaling naar het Nederlands" />
+    <MESSAGE value="- Matras aankoopdatum laten toevoegen bij settings (nieuwe post request)&#10;- Nog meer aanpassingen qua vertaling" />
+    <MESSAGE value="- Style aanpassingen, settings aangepast zodat geboortedatum/matras datum kunnen worden toegevoegd" />
+    <MESSAGE value="- Fix to date/percentage" />
+    <MESSAGE value="- Temporary cyclus fix" />
+    <MESSAGE value="- Cyclus fix, percentage wordt ook gedisplayed op home pagina enige resterende is variabele datum" />
+    <MESSAGE value="- Light/dark mode werkt en slaat op" />
+    <MESSAGE value="- Light &amp; Dark mode werkt nu helemaal" />
+    <MESSAGE value="- Fix to mattress purchase date and eventual calculation to longetivity&#10;- Code updates for cleanup" />
+    <MESSAGE value="- Remove debuggers" />
+    <MESSAGE value="- Correcte dark/light mode buttons" />
+    <MESSAGE value="- Percentage homepagina gefixed" />
+    <MESSAGE value="- Fix" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;docker/web-backend/lib/server.ts" />
+    <MESSAGE value="- Matras omdraaien" />
+    <MESSAGE value="- Snelle bugfix Eng/Nl" />
+    <MESSAGE value="- Repository refactored &amp; fixed" />
+    <MESSAGE value="- Bugfix waardoor dependencies normaal werken&#10;- Readme updated&#10;- Thema aangepast&#10;- Layout homepagina fix" />
+    <MESSAGE value="- Nieuwe route toegevoegd voor analytics &amp; begonnen UI&#10;- Dashboard UI aangepast, cards verfijnd en uitgelijnd&#10;- Wekker functie van Robin toegevoegd" />
+    <MESSAGE value="- Login page added" />
+    <MESSAGE value="- Added login component for Github&#10;- Authentication for SvelteKit added&#10;- Session storage works properly + handles auth" />
+    <MESSAGE value="- Cyclus page/route added" />
+    <MESSAGE value="- Settings/users routes added with basic functions &amp; converted to SvelteKit" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Settings/users routes added with basic functions &amp; converted to SvelteKit" />
+  </component>
+</project>
